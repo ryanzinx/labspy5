@@ -82,6 +82,8 @@ while True:
         print("Pilih Menu Yang Tersedia)
 ```
 ## Screenshot
+![SS](hasil1.png)
+## Flowchart
 ![SS](pratikum1.png)
 # Latihan 1
 ## Source Code
